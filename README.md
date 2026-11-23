@@ -1,5 +1,7 @@
 # Kopyright
 
+**Royalty Management Software**
+
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Kopyright-181717?logo=github)](https://github.com/Subhrajay/Kopyright)
 [![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)](https://react.dev/)
